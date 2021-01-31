@@ -1,0 +1,27 @@
+[
+    {
+      "id": "24c1b1b0-5710-466d-9e11-56cfd3c8ebdb",
+      "name": "T-shirt",
+      "image": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": "19c1fe11-7e75-47d3-9f49-673f9bc0e942",
+      "name": "Jeans",
+      "image":"https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": "b9a92191-c1b7-477e-b37f-637da17e0994",
+      "name": "Socks",
+      "image":"https://images.unsplash.com/photo-1582966772680-860e372bb558?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80"
+    },
+    {
+        "id": "f628831e-8e31-4871-9318-6eb63d54b06d",
+        "name": "Hat",
+        "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+      },
+      {
+        "id": "e85f3c8b-a053-47ba-9557-08b2fb1736b6",
+        "name": "Glowes",
+        "image":"https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+      }
+  ]
